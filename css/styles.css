@@ -17,6 +17,11 @@ body {
 	margin-right: 5%;
 }
 
+a:hover {
+	background-color: yellow;
+}
+
 footer {
 	text-align: center;
+
 }
