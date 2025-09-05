@@ -17,11 +17,17 @@ body {
 	margin-right: 5%;
 }
 
+figure {
+	float: right;
+	display: block;
+	margin: auto;
+	width: 40%;
+}
+
 a:hover {
 	background-color: yellow;
 }
 
 footer {
 	text-align: center;
-
 }
