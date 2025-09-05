@@ -21,7 +21,7 @@ figure {
 	float: right;
 	display: block;
 	margin: auto;
-	width: 40%;
+	width: 45%;
 }
 
 a:hover {
@@ -30,4 +30,5 @@ a:hover {
 
 footer {
 	text-align: center;
+
 }
