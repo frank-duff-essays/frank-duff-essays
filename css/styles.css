@@ -16,8 +16,14 @@ img {
 }
 
 section {
+	padding-top: 1%;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-bottom: 2%;
 	background-color: #D3D3D3;
-	margin: 10%
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-bottom: 2%;
 }
 
 h1 {
@@ -32,7 +38,12 @@ figure {
 	float: right;
 	display: block;
 	margin: auto;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 5%;
+	padding-bottom: 5%;
 	max-width: 100%;
+	background-color: black;
 }
 
 a:hover {
