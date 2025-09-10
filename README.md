@@ -1,5 +1,5 @@
 10 September 2025
-Modified CSS File - Made change to background color.
+Modified styles.css file. Changes to background color.
 
 <!--
 **frank-duff-essays/frank-duff-essays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
