@@ -3,7 +3,8 @@ Modified styles.css file. Changes to background color.
 11 September 2025
 Increased resolution of Frank Duff Banner Image to 1081 x 520
 13 September 2025
-Reduced size of H1 font a bit
+Reduced size of H1 font a bit in CSS
+Added user-scalable=yes in htnl header meta tag
 
 <!--
 **frank-duff-essays/frank-duff-essays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
