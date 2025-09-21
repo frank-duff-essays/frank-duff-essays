@@ -5,6 +5,8 @@ Increased resolution of Frank Duff Banner Image to 1081 x 520
 13 September 2025
 Reduced size of H1 font a bit in CSS
 Added user-scalable=yes in html header meta tag
+21 Septemeber
+In CSS file under section added the line-height and font-size attributes. Line height for more space between the links and font-size to increase legibility
 
 <!--
 **frank-duff-essays/frank-duff-essays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
